@@ -5,7 +5,7 @@ I'm a Software Engineer, making web apps, mods for games, starting new projects,
 ### Links
 
 * [Codeberg](https://codeberg.org/jackz)
-* [Local git forge](https://git.jackz.me/jackz)
+* [Local Forgejo](https://git.jackz.me/jackz)
 * [Blog / Portfolio](https://jackzie.dev)
 * [Mastodon](https://mastodon.social/@jackzmc)
 
