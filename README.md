@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Jackzmc/jackzmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer, making web apps, mods for games, starting new projects, always learning new things, and strong advocate for self-hosting and owning your own infrastructure.
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Codeberg](https://codeberg.org/jackz)
+* [Local git forge](https://git.jackz.me/jackz)
+* [Blog / Portfolio](https://jackzie.dev)
+* [Mastodon](https://mastodon.social/@jackzmc)
+
+## Areas
+
+I tend to work on a large variety of projects but my experience is majority with:
+
+* Full-stack web development (Vue.js, Node.js)
+* Game mods/plugins (sourcemod, Minecraft)
+* Some applications & services (Tauri/Rust)
